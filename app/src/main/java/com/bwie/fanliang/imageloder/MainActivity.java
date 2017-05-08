@@ -68,7 +68,7 @@ public class MainActivity extends Activity implements XListView.IXListViewListen
             }
         }
     }
-
+//范亮亮
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -83,7 +83,7 @@ public class MainActivity extends Activity implements XListView.IXListViewListen
        // padapter = new PAdapter(MainActivity.this,ImageList);
        // viewPager.setAdapter(padapter);
 
-
+//dasasdfasf
         adapter = new MyAdapter(MainActivity.this,list);
         xListView.setAdapter(adapter);
       //  new MyAsncTask().execute("http://api.expoon.com/AppNews/getNewsList/type/1/p/1");
