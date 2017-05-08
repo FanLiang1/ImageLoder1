@@ -68,6 +68,7 @@ public class MainActivity extends Activity implements XListView.IXListViewListen
             }
         }
     }
+    //aksdjfjaklsdjfkla
 //范亮亮
     @Override
     protected void onCreate(Bundle savedInstanceState) {
